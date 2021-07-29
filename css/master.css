@@ -1,0 +1,92 @@
+body{
+  margin: auto;
+  background-color: #FE9898;
+  font-family: 'Merriweather', serif;
+}
+hr{
+  border: 8px dotted grey;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+  width: 30%;
+}
+.links{
+   position: absolute;
+   top: 100px;
+}
+.links:hover{
+  color: gold;
+}
+.inline{
+  display: inline-block;
+}
+.qr{
+  border: thin solid black;
+
+}
+.banner{
+  height: 102px;
+  width: 100%;
+  background-color: #3C5186;
+  position : fixed;
+  border: thin solid black;
+
+}
+.center{
+  text-align: center;
+}
+.wel{
+  margin: 40px auto auto;
+  width: 10%;
+}
+.prof{
+  border-radius: 50%;
+  border: 3px dotted green;
+  margin: 150px auto 40px;
+
+}
+.slim{
+  margin: 5px;
+}
+.topic{
+  font-size: 40px;
+  color: skyblue;
+}
+#skill{
+  border: thin solid black;
+  margin: 0 auto;
+}
+.side{
+  position: absolute;
+  right: 0;
+  top: 100px;
+}
+.lside{
+  position: absolute;
+  left: 0;
+  top: 100px;
+}
+.intbox{
+  height: 250px;
+  width: 400px;
+  background-color: grey;
+  border: thin solid green;
+  border-radius: 10%;
+
+
+}
+.int{
+  font-size: 20px;
+  text-align: justify;
+}
+.bottom{
+  height: 100px;
+  width: 100%;
+  background-color: #F1ECC3;
+  position: relative;
+  bottom: 0;
+  margin-top: 200px;
+}
+.a{
+  padding-top: 40px;
+}
